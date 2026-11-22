@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="584" height="168" viewBox="0 0 584 168" role="img" aria-label="vproc">
+  <defs>
+    <pattern id="cardGrid" width="20" height="20" patternUnits="userSpaceOnUse">
+      <path d="M 20 0 L 0 0 0 20" fill="none" stroke="#141C28" stroke-width="0.9"/>
+    </pattern>
+  </defs>
+
+  <rect x="0.5" y="0.5" width="583" height="167" rx="12" fill="#0F141D" stroke="#1F2937"/>
+  <rect x="1" y="1" width="582" height="166" rx="11" fill="url(#cardGrid)" opacity="0.65"/>
+  <rect x="0.5" y="18" width="3.5" height="132" rx="1.75" fill="#06B6D4"/>
+
+  <!-- Category Pill -->
+  <rect x="22" y="18" width="144" height="22" rx="4" fill="rgba(6,182,212,0.14)"/>
+  <text x="33" y="33" font-family="'JetBrains Mono', 'Fira Code', 'SFMono-Regular', Consolas, 'Liberation Mono', monospace" font-size="10.5" font-weight="700" letter-spacing="0.8" fill="#06B6D4">ARM64 · RUNTIME</text>
+
+  <!-- Star / Status Pill -->
+  <rect x="464" y="18" width="98" height="22" rx="4" fill="#151D2B" stroke="#1F2937" stroke-width="0.8"/>
+  <text x="513" y="33" text-anchor="middle" font-family="'JetBrains Mono', 'Fira Code', 'SFMono-Regular', Consolas, 'Liberation Mono', monospace" font-size="10.5" font-weight="600" fill="#94A3B8">OPEN SOURCE</text>
+
+  <!-- Repo Title -->
+  <text x="22" y="72" font-family="'JetBrains Mono', 'Fira Code', 'SFMono-Regular', Consolas, 'Liberation Mono', monospace" font-size="22" font-weight="700" fill="#F1F5F9">vproc</text>
+
+  <!-- Description -->
+  <text x="22" y="99" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="13.5" fill="#94A3B8">aarch64 assembly + Rust coroutine executor —</text>
+  <text x="22" y="119" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="13.5" fill="#94A3B8">multiple virtual processes in one Android app.</text>
+
+  <!-- Footer meta -->
+  <circle cx="28" cy="145" r="4" fill="#06B6D4"/>
+  <text x="39" y="149" font-family="'JetBrains Mono', 'Fira Code', 'SFMono-Regular', Consolas, 'Liberation Mono', monospace" font-size="11.5" font-weight="600" fill="#5B6B82">Code</text>
+  <text x="458" y="149" text-anchor="end" font-family="'JetBrains Mono', 'Fira Code', 'SFMono-Regular', Consolas, 'Liberation Mono', monospace" font-size="11" fill="#06B6D4">OPEN REPO →</text>
+
+  <!-- Schematic Icon -->
+  
+        <g transform="translate(496, 46)" opacity="0.9">
+          <rect x="14" y="14" width="40" height="40" rx="5" fill="none" stroke="#06B6D4" stroke-width="1.8"/>
+          <rect x="24" y="24" width="20" height="20" rx="2" fill="#06B6D4" opacity="0.22" stroke="#06B6D4" stroke-width="1.2"/>
+          <line x1="24" y1="6" x2="24" y2="14" stroke="#2E3C52" stroke-width="1.5"/>
+          <line x1="34" y1="6" x2="34" y2="14" stroke="#06B6D4" stroke-width="1.5"/>
+          <line x1="44" y1="6" x2="44" y2="14" stroke="#2E3C52" stroke-width="1.5"/>
+          <line x1="24" y1="54" x2="24" y2="62" stroke="#2E3C52" stroke-width="1.5"/>
+          <line x1="34" y1="54" x2="34" y2="62" stroke="#06B6D4" stroke-width="1.5"/>
+          <line x1="44" y1="54" x2="44" y2="62" stroke="#2E3C52" stroke-width="1.5"/>
+          <line x1="6" y1="24" x2="14" y2="24" stroke="#2E3C52" stroke-width="1.5"/>
+          <line x1="6" y1="34" x2="14" y2="34" stroke="#06B6D4" stroke-width="1.5"/>
+          <line x1="6" y1="44" x2="14" y2="44" stroke="#2E3C52" stroke-width="1.5"/>
+          <line x1="54" y1="24" x2="62" y2="24" stroke="#2E3C52" stroke-width="1.5"/>
+          <line x1="54" y1="34" x2="62" y2="34" stroke="#06B6D4" stroke-width="1.5"/>
+          <line x1="54" y1="44" x2="62" y2="44" stroke="#2E3C52" stroke-width="1.5"/>
+        </g>
+</svg>
