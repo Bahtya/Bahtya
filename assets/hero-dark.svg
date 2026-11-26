@@ -57,7 +57,7 @@
   <circle cx="44" cy="30" r="6" fill="#10B981" opacity="0.22" class="pulse-led"/>
   <circle cx="44" cy="30" r="3.2" fill="#10B981" class="pulse-led"/>
   <text x="58" y="34" font-family="'JetBrains Mono', 'Fira Code', 'SFMono-Regular', Consolas, 'Liberation Mono', monospace" font-size="11.5" font-weight="600" letter-spacing="1.4" fill="#94A3B8">SYS.ONLINE  ·  BAHTYA // HARDWARE-TO-AGENT LAB</text>
-  <text x="1164" y="34" text-anchor="end" font-family="'JetBrains Mono', 'Fira Code', 'SFMono-Regular', Consolas, 'Liberation Mono', monospace" font-size="11" letter-spacing="1.1" fill="#5B6B82">FIG.01  ·  SYNC 2026-11-25  ·  AARCH64 / X86_64</text>
+  <text x="1164" y="34" text-anchor="end" font-family="'JetBrains Mono', 'Fira Code', 'SFMono-Regular', Consolas, 'Liberation Mono', monospace" font-size="11" letter-spacing="1.1" fill="#5B6B82">FIG.01  ·  SYNC 2026-11-26  ·  AARCH64 / X86_64</text>
 
   <!-- Left Hero Identity -->
   <text x="36" y="138" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="76" font-weight="800" letter-spacing="4" fill="url(#wordGrad)">BAHTYA</text>
